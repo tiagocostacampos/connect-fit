@@ -3,9 +3,13 @@ import styled from "styled-components";
 
 const FormContainer = styled.div`
   padding: 2rem;
-  max-width: 600px;
-  margin: 0 auto;
+  max-width: 800px;
+  margin: 2rem auto;
   color: white;
+  h2 {
+    color: ${({ theme }) => theme.colors.primary};
+    margin-bottom: 1.5rem;
+  }
 
   form {
     display: flex;
