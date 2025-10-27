@@ -22,6 +22,7 @@ export default function Sobre() {
   return (
     <Container>
       <h2>Sobre a ConnectFit</h2>
+      <img src="https://th.bing.com/th/id/OIP.nI0NGKBMC7oW-92E3CoL0gHaEo?w=260&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="ConnectFit Logo" width="650" height="450" />
       <p>
         A ConnectFit nasceu da paixão por estilo, conforto e performance.
         Criamos roupas que inspiram confiança e energia para treinar e viver com intensidade.

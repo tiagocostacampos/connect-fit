@@ -5,7 +5,7 @@ import Link from "next/link";
 const Hero = styled.section`
   height: 80vh;
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
-    url("https://images.unsplash.com/photo-1599058917212-d750089bc07a?auto=format&fit=crop&w=1400&q=60")
+    url("https://th.bing.com/th/id/OIP.ipR1w1_qOLeBy5k143_yCAHaHa?w=210&h=210&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3")
     center/cover no-repeat;
   display: flex;
   flex-direction: column;
@@ -16,8 +16,8 @@ const Hero = styled.section`
 `;
 
 const Title = styled.h1`
-  font-size: 3rem;
-  margin-bottom: 1rem;
+  font-size: 4rem;
+  margin-bottom: 2rem;
 `;
 
 const Button = styled(Link)`
